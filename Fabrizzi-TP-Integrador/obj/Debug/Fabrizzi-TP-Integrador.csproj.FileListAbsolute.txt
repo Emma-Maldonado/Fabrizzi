@@ -1,0 +1,70 @@
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\bin\Debug\Fabrizzi-TP-Integrador.exe
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\bin\Debug\Fabrizzi-TP-Integrador.pdb
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Login.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Properties.Resources.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.F_Principal.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Proveedores.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Roles.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.RolesListado.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.RolesModificar.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Usuarios_Alta.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.UsuariosListado.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.csproj.GenerateResource.Cache
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.exe
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.pdb
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Locales.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.ProveedoresListado.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Direcciones.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.ProveedoresModificar.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\bin\Debug\Fabrizzi-TP-Integrador.exe
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\bin\Debug\Fabrizzi-TP-Integrador.pdb
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Direcciones.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Locales.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Login.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Properties.Resources.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.F_Principal.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Proveedores.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.ProveedoresListado.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.ProveedoresModificar.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Roles.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.RolesListado.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.RolesModificar.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.UsuarioModificar.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Usuarios_Alta.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.UsuariosListado.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.exe
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.pdb
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.LocalesListado.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.LocalesListado.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.UsuarioModificar.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.MateriasPrimas.resources
+C:\Users\Usuario\Desktop\erika\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.MateriasPrimasListado.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.MateriasPrimas.resources
+C:\Users\Erica\Documents\Visual Studio 2015\Projects\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.MateriasPrimasListado.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.exe
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.pdb
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\bin\Debug\Fabrizzi-TP-Integrador.exe
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\bin\Debug\Fabrizzi-TP-Integrador.pdb
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Direcciones.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Locales.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.LocalesListado.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Login.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.MateriasPrimas.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.MateriasPrimasListado.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Properties.Resources.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.F_Principal.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Proveedores.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.ProveedoresListado.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.ProveedoresModificar.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Roles.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.RolesListado.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.RolesModificar.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.UsuarioModificar.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.Usuarios_Alta.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi_TP_Integrador.UsuariosListado.resources
+C:\Users\Manu\Desktop\Fabrizzi-TP-Integrador\Fabrizzi-TP-Integrador\obj\Debug\Fabrizzi-TP-Integrador.csproj.GenerateResource.Cache
